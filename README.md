@@ -27,5 +27,3 @@ This Power BI dashboard analyzes Bollywood movies based on budget, revenue, genr
 - Python (optional)
 - Excel / CSV for data cleaning
 
-## 📬 Contact
-If you'd like to collaborate or have questions, reach out via [LinkedIn](https://linkedin.com/in/yourname).
